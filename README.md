@@ -1,2 +1,2 @@
-# lab7
+# Just a doubly linked list.
  
